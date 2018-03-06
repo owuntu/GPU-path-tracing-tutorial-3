@@ -1,3 +1,4 @@
+Fork from https://github.com/straaljager/GPU-path-tracing-tutorial-3/ by Sam Lapere
 * GPU path tracing tutorial 3 
 * implementing a BVH acceleration structure on the GPU
 * by Sam lapere, 2016
