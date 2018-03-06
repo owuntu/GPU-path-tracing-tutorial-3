@@ -21,8 +21,8 @@
 */
 #include <cuda.h>
 #include <cuda_runtime.h>
-#include "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\extras\CUPTI\include\GL\glew.h"
-#include "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\extras\CUPTI\include\GL\glut.h"
+#include "glew.h"
+#include "glut.h"
 #include <cuda_gl_interop.h>
 #include <sstream>
 #include <iostream>

@@ -30,8 +30,8 @@
 #include <vector_functions.h>
 #include "device_launch_parameters.h"
 #include "cutil_math.h"
-#include "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\extras\CUPTI\include\GL\glew.h"
-#include "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\extras\CUPTI\include\GL\glut.h"
+#include "glew.h"
+#include "glut.h"
 #include <cuda_runtime.h>
 #include <cuda_gl_interop.h>
 #include <curand.h>
